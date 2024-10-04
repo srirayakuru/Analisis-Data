@@ -1,7 +1,8 @@
-babel==1.16.0
+babel==2.16.0
 numpy==2.1.1
 pandas==2.2.3
 seaborn==0.13.2
 matplotlib==3.9.2
-pyplot==3.9.2
+pyplot==5.24.1
 streamlit==1.39.0
+matplotlib-inline==0.1.7
